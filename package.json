@@ -1,0 +1,22 @@
+{
+  "name": "11online-redux-helpers",
+  "version": "1.0.0",
+  "description": "Helpers for managing state in redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/11online/redux-helpers.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "ericdebelak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/11online/redux-helpers/issues"
+  },
+  "homepage": "https://github.com/11online/redux-helpers#readme"
+}
