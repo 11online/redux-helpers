@@ -5,7 +5,7 @@
 
 exports.mergeState = function(state, payload) {
     //if the payload is an array, map through it
-    if (payload.length > 0) {
+    if (Array.isArray(payload)) {
         // eslint-disable-next-line
         payload.map(function(item) {
             state[item.id] = item;
